@@ -1,2 +1,2 @@
-<img src="/banner_github.png" height="300"/>
+<img src="/banner_github.png"/>
 
